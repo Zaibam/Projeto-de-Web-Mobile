@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f67bb7d-0718-49e2-837f-a5c2ab8d3416)<!DOCTYPE html>
+
 <html lang="br">
 <head>
     <meta charset="UTF-8">
@@ -145,19 +145,19 @@
     <h2>wrap:</h2>
     <p>Permite a quebra de linha.</p>
     <div class="cont60">
-        <img src="flexwrapwrap.png">
+        <img src="wrapp.png">
         <img src="wrap.png">
     </div><br>
     <h2>nowrap:</h2>
     <p>Não permite a quebra de linha (padrão).</p>
     <div class="cont61">
-        <img src="flexwrapnowrap.png">
+        <img src="nowrapp.png">
         <img src="cont61.png">
     </div><br>
     <h2>wrap-reverse:</h2>
     <p>O "flex-wrap: wrap-reverse;" especifica que os itens flexíveis serão agrupados se necessário, na ordem inversa</p>
     <div class="cont62">
-        <img src="flexwrapwrapreverse.png">
+        <img src="wrapreversee.png">
         <img src="wrapreverse.png">
     </div>
 </body>
