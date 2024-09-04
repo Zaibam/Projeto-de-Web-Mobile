@@ -12,6 +12,7 @@
     <h2>display: flex</h2>
     <p>Define um contêiner como um contêiner flexível e habilita as propriedades Flexbox nos seus filhos.</p> 
     <div class="cont1">
+        <img src="displayflex.png">
     </div>
     <!-- 2 ITEM -->
     <h1>flex-direction</h1>
