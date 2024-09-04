@@ -12,9 +12,7 @@
     <h2>display: flex</h2>
     <p>Define um contêiner como um contêiner flexível e habilita as propriedades Flexbox nos seus filhos.</p> 
     <div class="cont1">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+    ![displayflex](https://github.com/user-attachments/assets/74d9b0e0-0710-4c56-97d7-138c34a205f6)
     </div>
     <!-- 2 ITEM -->
     <h1>flex-direction</h1>
