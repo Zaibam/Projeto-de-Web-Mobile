@@ -26,7 +26,8 @@
             .column{
     display: flex;
     flex-direction:column;}
-    ```css
+            
+    ```
 
             
         </div>
