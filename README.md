@@ -60,7 +60,7 @@
         <img src="#####">
     </div>
     <!-- 4 ITEM-->
-    <h1>Align-Items</h1>
+    <h1>Aling-Items</h1>
     <p>Align-items controla como os itens são alinhados ao longo do eixo transversal (perpendicular ao eixo principal), tendo como principais estilos de alinhamento, o flex-start, que alinha os itens ao início do contêiner, o seu oposto, flex-end, que alinha os itens ao final do contêiner, além deles também temos o center, que alinha os itens ao centro do contêiner tendo também o baseline, que alinha os itens ao longo da linha de base do contêiner e por fim o stretch, que estica os itens para preencher o contêiner (padrão).</p><br>
     <h2>flex-start:</h2>
     <p>Alinha os itens ao início do contêiner.</p> 
