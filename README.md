@@ -78,7 +78,7 @@
     <!-- 4 ITEM-->
     <h1>Align-Items</h1>
     <p>Controla como os itens são alinhados ao longo do eixo transversal (perpendicular ao eixo principal).</p><br>
-    <h2>flex-star:</h2>
+    <h2>flex-start:</h2>
     <p>Alinha os itens ao início do contêiner.</p> 
     <div class="cont40">
         <img src="LogoDeMackenzie.png" alt="Logo Mack">
@@ -172,7 +172,7 @@
         <img src="LogoDeMackenzie.png" alt="Logo Mack">
         <img src="LogoDeMackenzie.png" alt="Logo Mack">
     </div><br>
-    <h2>flex-star:</h2>
+    <h2>flex-start:</h2>
     <p>Alinha as linhas ao início do contêiner.</p>
     <div class="cont54">
         <img src="LogoDeMackenzie.png" alt="Logo Mack">
@@ -197,7 +197,7 @@
         <img src="LogoDeMackenzie.png" alt="Logo Mack">
     </div><br>
     <!-- 6 ITEM -->
-    <h1>flex-warp</h1>
+    <h1>flex-wrap</h1>
     <p>Define se os itens devem ou não quebrar para uma nova linha.</p>
     <h2>wrap:</h2>
     <p>Permite a quebra de linha.</p>
