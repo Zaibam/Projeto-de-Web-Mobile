@@ -21,18 +21,14 @@
     <p>Alinha os itens de cima para baixo.</p> 
     <div class="cont1">
         <div class="column"> 
-            <img src="LogoDeMackenzie.png" alt="Logo Mack" >
-            <img src="LogoDeMackenzie.png" alt="Logo Mack" >
-            <img src="LogoDeMackenzie.png" alt="Logo Mack" >
+            <img src="#####">
         </div>
     </div>
     <h2>row-reverse:</h2>
     <p>Alinha os itens da direita para a esquerda.</p> 
     <div class="cont2">
         <div class="row-reverse">  
-            <img src="LogoDeMackenzie.png" alt="Logo Mack">
-            <img src="LogoDeMackenzie.png" alt="Logo Mack">
-            <img src="LogoDeMackenzie.png" alt="Logo Mack">
+            <img src="######">
         </div>
     </div>
     <!-- 3 ITEM -->
@@ -41,37 +37,27 @@
     <h2>center:</h2>
     <p> Alinha os itens ao centro do contêiner.</p> 
     <div class="cont30">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>  
     <h2>flex-start:</h2>
     <p>Alinha os itens ao início do contêiner</p> 
     <div class="cont31">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <h2>flex-end: </h2>
     <p>Alinha os itens ao final do contêiner.</p> 
     <div class="cont32">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <h2>space-around:</h2>
     <p> Distribui os itens com espaçamento igual ao redor de cada item.</p> 
     <div class="cont33">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <h2>space-between: </h2>
     <p>Distribui os itens com espaçamento igual entre eles.</p> 
     <div class="cont34">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <!-- 4 ITEM-->
     <h1>Align-Items</h1>
@@ -79,37 +65,27 @@
     <h2>flex-start:</h2>
     <p>Alinha os itens ao início do contêiner.</p> 
     <div class="cont40">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <h2>center:</h2>
     <p>O valor central alinha os itens flexíveis no meio do contêiner</p> 
     <div class="cont41">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <h2>flex-end:</h2>
     <p>Alinha os itens ao final do contêiner.</p>
     <div class="cont42">    
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
     <h2>baseline:</h2>
     <p>Alinha os itens ao longo da linha de base do contêiner.</p>
     <div class="cont44">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack" class="imagconte44">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack" class="imagconte444">
+        <img src="#####">
     </div><br>
     <h2>stretch:</h2>
     <p>Estatica os items para prencher o contêiner (padrão).</p>
     <div class="cont45">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <!-- 5 ITEM -->
     <h1>Aling-Content</h1>
@@ -117,82 +93,32 @@
     <h2>space-between:</h2>
     <p>Distribui as linhas com espaçamento igual entre elas.</p>
     <div class="cont50">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>space-around:</h2>
     <p>Distribui as linhas com espaçamento igual ao redor de cada linha.</p>
     <div class="cont51">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>stretch:</h2>
     <p>Estatica as linhas para prencher o contêiner (padrão).</p>
     <div class="cont52">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>center:</h2>
     <p>Alinha os as linhas ao centro do contêiner.</p>
     <div class="cont53">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>flex-start:</h2>
     <p>Alinha as linhas ao início do contêiner.</p>
     <div class="cont54">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>flex-end:</h2>
     <p>Alinha as linhas ao final do contêiner.</p>
     <div class="cont55">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <!-- 6 ITEM -->
     <h1>flex-wrap</h1>
@@ -200,34 +126,17 @@
     <h2>wrap:</h2>
     <p>Permite a quebra de linha.</p>
     <div class="cont60">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>nowrap:</h2>
     <p>Não permite a quebra de linha (padrão).</p>
     <div class="cont61">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div><br>
     <h2>wrap-reverse:</h2>
     <p>O "flex-wrap: wrap-reverse;" especifica que os itens flexíveis serão agrupados se necessário, na ordem inversa</p>
     <div class="cont62">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
-        <img src="LogoDeMackenzie.png" alt="Logo Mack">
+        <img src="#####">
     </div>
 </body>
 </html>
