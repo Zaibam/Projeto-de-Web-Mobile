@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/user-attachments/assets/2f67bb7d-0718-49e2-837f-a5c2ab8d3416)<!DOCTYPE html>
 <html lang="br">
 <head>
     <meta charset="UTF-8">
@@ -13,6 +13,7 @@
     <p>Display flex é a ferramenta principal do flexbox, pois o mesmo define um contêiner como um contêiner flexível e habilita as propriedades Flexbox nos seus filhos.</p> 
     <div class="cont1">
         <img src="displayflex.png">
+        <img src="displayflexcod.png">
     </div>
     <!-- 2 ITEM -->
     <h1>flex-direction</h1>
@@ -22,15 +23,7 @@
     <div class="cont1">
         <div class="column"> 
             <img src="flexdirectioncolumn.png">
-            
-```css
-            .column{
-    display: flex;
-    flex-direction:column;}
-            
-```
-
-            
+            <img src="colunm.png">        
         </div>
     </div>
     <h2>row-reverse:</h2>
@@ -38,6 +31,7 @@
     <div class="cont2">
         <div class="row-reverse">  
             <img src="flexdirectionrowreverse.png">
+            <img src="cont2.png">
         </div>
     </div>
     <!-- 3 ITEM -->
@@ -47,26 +41,31 @@
     <p> Alinha os itens ao centro do contêiner.</p> 
     <div class="cont30">
         <img src="justifycontentcenter.png">
+        <img src="cont30.png">
     </div>  
     <h2>flex-start:</h2>
     <p>Alinha os itens ao início do contêiner</p> 
     <div class="cont31">
         <img src="justifycontentflextart.png">
+        <img src="cont31.png">
     </div>
     <h2>flex-end: </h2>
     <p>Alinha os itens ao final do contêiner.</p> 
     <div class="cont32">
         <img src="justifycontentflexend.png">
+        <img src="cont32.png">
     </div>
     <h2>space-around:</h2>
     <p> Distribui os itens com espaçamento igual ao redor de cada item.</p> 
     <div class="cont33">
         <img src="justifycontentspacearound.png">
+        <img src="cont33.png">
     </div>
     <h2>space-between: </h2>
     <p>Distribui os itens com espaçamento igual entre eles.</p> 
     <div class="cont34">
         <img src="justifycontentspacebetween.png">
+        <img src="cont34.png">
     </div>
     <!-- 4 ITEM-->
     <h1>Aling-Items</h1>
@@ -75,26 +74,31 @@
     <p>Alinha os itens ao início do contêiner.</p> 
     <div class="cont40">
         <img src="alignitemsflexstart.png">
+        <img src="cont40.png">
     </div>
     <h2>center:</h2>
     <p>O valor central alinha os itens flexíveis no meio do contêiner</p> 
     <div class="cont41">
         <img src="alignitemscenter.png">
+        <img src="cont41.png">
     </div>
     <h2>flex-end:</h2>
     <p>Alinha os itens ao final do contêiner.</p>
     <div class="cont42">    
         <img src="alignitemsflexend.png">
+        <img src="cont42.png">
     </div>
     <h2>baseline:</h2>
     <p>Alinha os itens ao longo da linha de base do contêiner.</p>
     <div class="cont44">
         <img src="alignitemsbaseline.png">
+        <img src="cont44.png">
     </div><br>
     <h2>stretch:</h2>
     <p>Estatica os items para prencher o contêiner (padrão).</p>
     <div class="cont45">
         <img src="alignitemsstretch.png">
+        <img src="cont45.png">
     </div><br>
     <!-- 5 ITEM -->
     <h1>Aling-Content</h1>
@@ -103,31 +107,37 @@
     <p>Distribui as linhas com espaçamento igual entre elas.</p>
     <div class="cont50">
         <img src="alingcontentspacebetween.png">
+        <img src="cont50.png">
     </div><br>
     <h2>space-around:</h2>
     <p>Distribui as linhas com espaçamento igual ao redor de cada linha.</p>
     <div class="cont51">
         <img src="alingcontentspacearound.png">
+        <img src="cont51.png">
     </div><br>
     <h2>stretch:</h2>
     <p>Estatica as linhas para prencher o contêiner (padrão).</p>
     <div class="cont52">
         <img src="alingcontentstretch.png">
+        <img src="cont52.png">
     </div><br>
     <h2>center:</h2>
     <p>Alinha os as linhas ao centro do contêiner.</p>
     <div class="cont53">
         <img src="alingcontentcenter.png">
+        <img src="cont53.png">
     </div><br>
     <h2>flex-start:</h2>
     <p>Alinha as linhas ao início do contêiner.</p>
     <div class="cont54">
         <img src="alingcontentflexstart.png">
+        <img src="cont54.png">
     </div><br>
     <h2>flex-end:</h2>
     <p>Alinha as linhas ao final do contêiner.</p>
     <div class="cont55">
         <img src="alingcontentflexend.png">
+        <img src="cont55.png">
     </div><br>
     <!-- 6 ITEM -->
     <h1>flex-wrap</h1>
@@ -136,16 +146,19 @@
     <p>Permite a quebra de linha.</p>
     <div class="cont60">
         <img src="flexwrapwrap.png">
+        <img src="wrap.png">
     </div><br>
     <h2>nowrap:</h2>
     <p>Não permite a quebra de linha (padrão).</p>
     <div class="cont61">
         <img src="flexwrapnowrap.png">
+        <img src="cont61.png">
     </div><br>
     <h2>wrap-reverse:</h2>
     <p>O "flex-wrap: wrap-reverse;" especifica que os itens flexíveis serão agrupados se necessário, na ordem inversa</p>
     <div class="cont62">
         <img src="flexwrapwrapreverse.png">
+        <img src="wrapreverse.png">
     </div>
 </body>
 </html>
