@@ -22,11 +22,12 @@
     <div class="cont1">
         <div class="column"> 
             <img src="flexdirectioncolumn.png">
-            ```css
+    ```css
             .column{
     display: flex;
     flex-direction:column;}
-            ```css
+    ```css
+
             
         </div>
     </div>
