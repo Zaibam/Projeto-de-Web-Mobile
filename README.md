@@ -47,7 +47,7 @@
     <h2>flex-end: </h2>
     <p>Alinha os itens ao final do contêiner.</p> 
     <div class="cont32">
-        <img src="justifycontentflextart.png">
+        <img src="justifycontentflexend.png">
     </div>
     <h2>space-around:</h2>
     <p> Distribui os itens com espaçamento igual ao redor de cada item.</p> 
