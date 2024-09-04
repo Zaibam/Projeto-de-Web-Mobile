@@ -22,6 +22,12 @@
     <div class="cont1">
         <div class="column"> 
             <img src="flexdirectioncolumn.png">
+            ```css
+            .column{
+    display: flex;
+    flex-direction:column;}
+            ```css
+            
         </div>
     </div>
     <h2>row-reverse:</h2>
