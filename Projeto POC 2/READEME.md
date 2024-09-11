@@ -14,7 +14,7 @@ O método map chama a função callback recebida por parâmetro para cada elemen
 ![image](https://github.com/user-attachments/assets/c18ffcfb-b95f-4812-b560-b0ac1617d43d)
 
 
-```
+```JS
 //Array com o método de map, que soma +1
 const arraymap = [2, 4, 6, 8]
 const soma = arraymap.map(num => num + 1);
@@ -30,7 +30,7 @@ Se funcaoDeComparacao não for informado, os elementos serão ordenados de acord
 
 ![Sort](https://github.com/user-attachments/assets/d26f5c02-579d-4e77-8a52-8012aa1dfb2b)
 
-```
+```JS
 //Array com método de sort, que ordena os numeros na ordem crescente
 const numeros = [5, 2, 10, 8, 3, 7, -1, -9];
 numeros.sort((a, b) => a - b);
@@ -47,7 +47,7 @@ filter() chama a função callback fornecida, uma vez para cada elemento do arra
 ![image](https://github.com/user-attachments/assets/b66a62b4-7bb7-4f14-b49e-ea345724623c)
 
 
-```
+```JS
 //Array com o método filter, com ele conseguimos filtrar e exibir somente os pares
 const desordem = [-8, -7, -2, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const numerosPares = desordem.filter(num => num % 2 === 0);
@@ -69,7 +69,7 @@ O método reduce() executa a função de callback uma vez para cada elemento pre
 ![image](https://github.com/user-attachments/assets/2be70e2c-b0e9-47eb-a712-2e20325a948b)
 
 
-```
+```JS
 //Array com o método reduce , podemos obter um resultado somando todos os itens do array
 const listinha = [-12, 1, 2, 3, 4, 5, 10, 28];
 const resultado = listinha.reduce((acumulador, valorAtual) => acumulador + valorAtual, 0);
@@ -96,7 +96,7 @@ Espalhamento em arrays literais
 Um array literal mais poderoso
 Criar um novo array usando um array existente como parte dele, não é possível utilizando apenas a sintaxe de array literal. O código imperativo deve ser usado ao invés da combinação de push, splice, concat, etc. Com a sintaxe de espalhamento isso se torna muito mais sucinto
 
-```
+```JS
 //Em um Array com o método spread ,podemos justar elementos de arrays em um só array
 const ferrari = ['PuroSangue', 'Roma', '296GTB'];
 const porsche = ['Taycan', 'Cayenne', 'Panamera'];
